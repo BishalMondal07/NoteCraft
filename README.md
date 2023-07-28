@@ -50,7 +50,11 @@ NoteCraft is a lightweight and easy-to-use text editor built using the Tkinter l
 
 ## Installation
 
-To run NoteCraft, you need to have Python and Tkinter installed on your system. NoteCraft was developed and tested using Python 3.8.
+To run NoteCraft, you need to have [Python](https://www.python.org/) and Tkinter
+```bash
+  pip install tkinter
+```
+installed on your system. NoteCraft was developed and tested using Python 3.8.
 
 1. Clone this repository to your local machine using:
 ```bash
